@@ -3,7 +3,9 @@
 - I love working on solutions to problems and automations;
 - **Data Science** and **Machine Learning** are my current focus;
 - I also work with **React&Node**;
-- I have many projects, take a look around my repositories!
+
+As one can't be a "*real github user*" without contributing to open source, I, of course, have contributed to a few repositories and I also have some projects myself.
+So, make sure to take a look around my repos!
 One I'm really proud of is [test.me](https://github.com/ArielMAJ/test.me).
 It's really useful for testing code when studying Algorithms and Data Structures.
 Feel free to try it out and contribute as well!
