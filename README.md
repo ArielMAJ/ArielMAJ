@@ -14,7 +14,10 @@ Feel free to try it out and contribute as well!
 <div align="center">
   <a href="https://github.com/ArielMAJ">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArielMAJ&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielMAJ&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielMAJ&layout=compact&langs_count=10&theme=dark"/>
+    
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ArielMAJ&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD"/>
+   
 </div>
 
 <hr>
