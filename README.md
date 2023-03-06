@@ -14,9 +14,9 @@ Feel free to try it out and contribute as well!
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArielMAJ&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-arielmaj.vercel.app/api?username=ArielMAJ&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielMAJ&layout=compact&langs_count=10&theme=dark&hide=Jupyter%20Notebook"/>
+  <img height="180em" src="https://github-readme-stats-arielmaj.vercel.app/api/top-langs/?username=ArielMAJ&layout=compact&langs_count=10&theme=dark&hide=Jupyter%20Notebook"/>
     
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ArielMAJ&theme=dark&ring=3722DD"/>
     
