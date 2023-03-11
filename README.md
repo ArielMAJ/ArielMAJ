@@ -5,8 +5,7 @@
 - **Data Science** and **Machine Learning** are my current focus;
 - I also work with **React&Node**;
 
-As one can't be a "*real github user*" without contributing to open source, I have contributed to a few projects and I also have some open source projects myself.
-So, make sure to take a look around my repos!
+Make sure to take a look around my repos! I have contributed to a few open source projects and I also have some open source projects myself.
 One I'm really proud of is [test.me](https://github.com/ArielMAJ/test.me).
 It's really useful for testing code when studying Algorithms and Data Structures.
 Feel free to try it out and contribute as well!
