@@ -2,7 +2,8 @@
 
 - I really enjoy studying and learning new things;
 - I love working on solutions to problems and automations;
-- **Data Science** and **Machine Learning** are my current focus;
+- I'm currently working as a **back-end developer** at Solfácil;
+- **Machine Learning** is part of my master's line of research;
 - I also work with **React&Node**;
 
 Make sure to take a look around my repos! I have contributed to a few open source projects and I also have some open source projects myself.
