@@ -1,4 +1,8 @@
-# 👋 Hi, I’m @ArielMAJ
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Croissant+One&size=30&duration=2500&pause=1000&color=00B569&center=true&vCenter=true&multiline=true&width=800&height=95&lines=%F0%9F%91%8BHi!+I%E2%80%99m+%40ArielMAJ+%F0%9F%98%8E;a+Full+Stack+Software+Enginner+%F0%9F%92%BB+at+Solf%C3%A1cil+%F0%9F%8C%9E)](https://git.io/typing-svg)
+
+</div>
 
 - I really enjoy studying and learning new things;
 - I love working on solutions to problems and automations;
