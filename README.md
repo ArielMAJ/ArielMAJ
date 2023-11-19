@@ -18,7 +18,7 @@ Feel free to try it out and contribute as well!
 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-2yp3wzl04-arielmaj.vercel.app/api?username=ArielMAJ&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-2yp3wzl04-arielmaj.vercel.app/api?username=ArielMAJ&show_icons=true&theme=dark&include_all_commits=true&count_private=true&rank_icon=percentile"/>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielMAJ&layout=compact&langs_count=10&theme=dark&hide=Jupyter%20Notebook"/>
     
