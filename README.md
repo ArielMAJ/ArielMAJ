@@ -8,7 +8,7 @@
 - I love working on solutions to problems and automations;
 - I'm currently working as a **Full Stack Software Enginner** at Solfácil;
   - Vue/Jinja;
-  - Flask/FastAPI;
+  - FastAPI/Flask;
 - **Machine Learning** is part of my master's line of research;
 
 Make sure to take a look around my repos! I have contributed to a few open source projects and I also have some open source projects myself.
