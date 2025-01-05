@@ -8,7 +8,7 @@ I’m a **Software Engineer** at Solfácil, one of the largest fintech solar fin
 - **Microservices architecture** for scalable systems;
 - **Diverse Web Frameworks**: Python (FastAPI, Flask), Elixir, Node.js;
 - **Database design**: PostgreSQL, MongoDB;
-- Docker, Kafka, ArgoCD, Rancher, etc;
+- Docker, Kafka, AWS, ArgoCD, Rancher, etc;
 
 ### Web Engineering (Front-end)
 - **Vue.js (TypeScript)** for dynamic and interactive user interfaces;
