@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ariel Menezes
 
-I’m a **Software Engineer** at Solfácil, one of the largest fintech solar financing startups in Brazil, where I specialize in designing and building scalable solutions that drive innovation and efficiency. With a strong foundation in full stack web engineering, I leverage modern technologies to create robust applications, APIs and platform integrations. I am passionate about harnessing automation and artificial intelligence to streamline processes and enhance user experiences. My approach is deeply rooted in collaboration and Agile methodologies, ensuring that I deliver high-quality results in cross-functional teams and dynamic environments.
+I’m a **Software Engineer** at Solfácil, the first solar fintech in Latin America and the largest ecosystem of solar solutions in Brazil, where I specialize in designing and building scalable solutions that drive innovation and efficiency. With a strong foundation in full stack web engineering, I leverage modern technologies to create robust applications, APIs and platform integrations. I am passionate about harnessing automation and artificial intelligence to streamline processes and enhance user experiences. My approach is deeply rooted in collaboration and Agile methodologies, ensuring that I deliver high-quality results in cross-functional teams and dynamic environments.
 
 ## 💻 Technologies I Work With
 
