@@ -20,7 +20,7 @@ I’m a **Software Engineer** at Solfácil, the first solar fintech in Latin Ame
 
 ## 🎓 Education
 
-### PhD in Computer Science *(2024 – 2028)*
+### PhD in Computer Science *(2024 – 2027)*
 **Universidade Federal da Bahia**
 - Federated Learning;
 - Edge, Fog, and Cloud Computing;
