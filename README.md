@@ -1,35 +1,37 @@
 # 👋 Hi, I'm Ariel Menezes
 
-I’m a **Software Engineer** at Solfácil, the first solar fintech in Latin America and the largest ecosystem of solar solutions in Brazil, where I specialize in designing and building scalable solutions that drive innovation and efficiency. With a strong foundation in full stack web engineering, I leverage modern technologies to create robust applications, APIs and platform integrations. I am passionate about harnessing automation and artificial intelligence to streamline processes and enhance user experiences. My approach is deeply rooted in collaboration and Agile methodologies, ensuring that I deliver high-quality results in cross-functional teams and dynamic environments.
+I’m a **Software Engineer** at IBM, where I specialize in developing and maintaining enterprise-grade applications using Java, Spring Boot, Angular, and Node.js. My role involves creating scalable and efficient solutions that meet complex business needs. I am passionate about leveraging modern technologies and Agile practices to deliver high-quality software while fostering collaboration in cross-functional teams.
 
 ## 💻 Technologies I Work With
 
 ### Web Engineering (Back-end)
 - **Microservices architecture** for scalable systems;
-- **Diverse Web Frameworks**: Python (FastAPI, Flask), Elixir, Node.js;
+- **Diverse Web Frameworks**: Java (Springboot), Node.js, Python (FastAPI, Flask);
 - **Database design**: PostgreSQL, MongoDB;
 - Docker, Kafka, AWS, ArgoCD, Rancher, etc;
 
 ### Web Engineering (Front-end)
-- **Vue.js (TypeScript)** for dynamic and interactive user interfaces;
+- Currently building dynamic and interactive user interfaces with **Angular**;
+- I also have worked with **Vue** and **React** (TypeScript) in the past;
 - Expertise in designing **responsive, high-performance web applications**;
 
 ### Other Skills
-- Building **automation tools** with bots and AI;
+- Building **automation tools** with custom bots and AI;
+- Platform integrations via webhooks;
 - Proficiency in **Agile methodologies**: Scrum, Kanban;
 
 ## 🎓 Education
 
 ### PhD in Computer Science *(2024 – 2027)*
 **Universidade Federal da Bahia**
-- Federated Learning;
 - Edge, Fog, and Cloud Computing;
 - Multi-Agent Systems;
+- Federated Learning;
 
 ### Master's in Computer Science *(2021 – 2024)*
 **Universidade Federal da Bahia**
 - Advanced research in AI, ML, and Computer Vision;
-- Co-authored peer-reviewed publications;
+- Co-authored peer-reviewed publications in the Machine Learning field;
 
 ## 🌱 Currently Exploring
 
