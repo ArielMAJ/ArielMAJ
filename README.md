@@ -25,8 +25,6 @@ I’m a **Software Engineer** at IBM, where I specialize in developing and maint
 ### PhD in Computer Science *(2024 – 2027)*
 **Universidade Federal da Bahia**
 - Edge, Fog, and Cloud Computing;
-- Multi-Agent Systems;
-- Federated Learning;
 
 ### Master's in Computer Science *(2021 – 2024)*
 **Universidade Federal da Bahia**
