@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ariel Menezes
 
-I’m a **Software Engineer** at IBM, where I specialize in developing and maintaining enterprise-grade applications using Java, Spring Boot, Angular, and Node.js. My role involves creating scalable and efficient solutions that meet complex business needs. I am passionate about leveraging modern technologies and Agile practices to deliver high-quality software while fostering collaboration in cross-functional teams.
+I’m a **Software Engineer** at IBM, where I specialize in developing and maintaining enterprise-grade applications using Java, Spring Boot, React, and Node.js. My role involves creating scalable and efficient solutions that meet complex business needs. I am passionate about leveraging modern technologies and Agile practices to deliver high-quality software while fostering collaboration in cross-functional teams.
 
 ## 💻 Technologies I Work With
 
