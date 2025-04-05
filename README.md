@@ -8,7 +8,7 @@ I’m a **MidLevel Software Engineer** at IBM, where I specialize in developing 
 - **Microservices architecture** for scalable systems;
 - **Diverse Web Frameworks**: Java (Springboot), Node.js, Python (FastAPI, Flask);
 - **Database design**: PostgreSQL, MongoDB;
-- Docker, Kafka, AWS, ArgoCD, Rancher, etc;
+- Docker/Podman, Kafka/RabbitMQ, AWS, IBM Cloud, ArgoCD, Rancher, etc;
 
 ### Web Engineering (Front-end)
 - Currently building dynamic and interactive user interfaces with **React**;
