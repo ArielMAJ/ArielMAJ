@@ -38,7 +38,7 @@ I’m a **MidLevel Software Engineer** at IBM, where I specialize in developing 
 - Innovations in the Edge-Fog-Cloud continuum;
 
 ## 📫 Let's Connect!
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arielalmeida/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-menezes/)
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=react&logoColor=white&color=blue)](https://ariel.artadevs.tech/)
 ![](https://komarev.com/ghpvc/?username=ArielMAJ&style=for-the-badge)
 
